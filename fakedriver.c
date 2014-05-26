@@ -87,4 +87,4 @@ module_exit(fakeserial_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Vilerino, Silvio");
-MODULE_DESCRIPTION("Driver del dispositivo serial piola");
+MODULE_DESCRIPTION("Driver del dispositivo serial");
